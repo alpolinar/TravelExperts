@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TravelExperts</string>
+    <string name="travelexperts">TravelExperts</string>
+    <string name="profile">View Profile</string>
+    <string name="settings">Settings</string>
+    <string name="open">Account Settings</string>
+    <string name="close">Profile</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="invalid">username or password is invalid</string>
+    <string name="name">firstName lastName</string>
+    <string name="address">address goes here</string>
+    <string name="hphone">home phone</string>
+    <string name="bphone">business phone</string>
+    <string name="email">email</string>
+    <string name="update">Update Info</string>
+    <string name="select_agent">Select Agent</string>
+    <string name="booking">Booking History</string>
+</resources>
